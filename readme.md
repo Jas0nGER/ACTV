@@ -6,6 +6,8 @@
 * Timer (Session info - Replay)
 * Config (Configuration)
 
+### Forked on 21.11.2017 from Version 1.3.0
+
 -
 ###Changelog
 1.3.0
